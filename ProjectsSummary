@@ -1,0 +1,8 @@
+DICOM Image Processing
+• Project goal: Utilize machine learning to forecast lung function decline in patients with an incurable lung disease.
+• Methodology: Analyze CT scan images of the lungs, along with associated metadata and baseline Forced Vital Capacity (FVC) measurements from a spirometer.
+• Predictive model: Predicts the severity of lung function decline to provide clearer prognoses for patients and families at diagnosis.
+
+Music data recognition
+• Preprocess GTZAN Dataset for Music Genre Classification.
+• Implement Neural Network Model using MFCCs for genre classification with TensorFlow/Keras.
