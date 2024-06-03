@@ -2,20 +2,6 @@ In this repository, I share my journey through various projects in the realms of
 From image classification and natural language processing to predictive analytics and reinforcement learning,
 each project reflects my passion for exploring and applying cutting-edge techniques to real-world problems.
 
-**DICOM Image Processing**
-
-• Project goal: Utilize machine learning to forecast lung function decline in patients with an incurable lung disease.
-
-• Methodology: Analyze CT scan images of the lungs, along with associated metadata and baseline Forced Vital Capacity (FVC) measurements from a spirometer.
-
-• Predictive model: Predicts the severity of lung function decline to provide clearer prognoses for patients and families at diagnosis.
-
-**Music data recognition**
-
-• Preprocess GTZAN Dataset for Music Genre Classification.
-
-• Implement Neural Network Model using MFCCs for genre classification with TensorFlow/Keras.
-
 **Credit card fraud detection handling**
 
 •	The code imports essential libraries for data analysis and machine learning, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow.
@@ -31,3 +17,18 @@ provide insights into fraud detection in credit card transactions.
 • Integratesreal-timeTwittersentimentanalysiswithhistoricalcryptopricedataforcomprehensivemarket analysis.
 
 • UtilizesNLPtechniquestoconductintricatesentimentanalysisontweets,enablinginsightfulpricetrend predictions for Bitcoin.
+
+**DICOM Image Processing**
+
+• Project goal: Utilize machine learning to forecast lung function decline in patients with an incurable lung disease.
+
+• Methodology: Analyze CT scan images of the lungs, along with associated metadata and baseline Forced Vital Capacity (FVC) measurements from a spirometer.
+
+• Predictive model: Predicts the severity of lung function decline to provide clearer prognoses for patients and families at diagnosis.
+
+**Music data recognition**
+
+• Preprocess GTZAN Dataset for Music Genre Classification.
+
+• Implement Neural Network Model using MFCCs for genre classification with TensorFlow/Keras.
+
