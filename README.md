@@ -26,3 +26,8 @@ each project reflects my passion for exploring and applying cutting-edge techniq
 tuning and model evaluation performed using techniques like cross-validation and GridSearchCV. Additionally, the code visualizes clustering using K-Means to 
 provide insights into fraud detection in credit card transactions.
 
+**Crypto - Sentiment Analysis**
+
+• Integratesreal-timeTwittersentimentanalysiswithhistoricalcryptopricedataforcomprehensivemarket analysis.
+
+• UtilizesNLPtechniquestoconductintricatesentimentanalysisontweets,enablinginsightfulpricetrend predictions for Bitcoin.
