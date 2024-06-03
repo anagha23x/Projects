@@ -2,7 +2,7 @@ In this repository, I share my journey through various projects in the realms of
 From image classification and natural language processing to predictive analytics and reinforcement learning,
 each project reflects my passion for exploring and applying cutting-edge techniques to real-world problems.
 
-**Credit card fraud detection handling**
+_**Credit card fraud detection handling**_
 
 •	The code imports essential libraries for data analysis and machine learning, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow.
 
@@ -12,13 +12,13 @@ each project reflects my passion for exploring and applying cutting-edge techniq
 tuning and model evaluation performed using techniques like cross-validation and GridSearchCV. Additionally, the code visualizes clustering using K-Means to 
 provide insights into fraud detection in credit card transactions.
 
-**Crypto - Sentiment Analysis**
+_**Crypto - Sentiment Analysis**_
 
 • Integratesreal-timeTwittersentimentanalysiswithhistoricalcryptopricedataforcomprehensivemarket analysis.
 
 • UtilizesNLPtechniquestoconductintricatesentimentanalysisontweets,enablinginsightfulpricetrend predictions for Bitcoin.
 
-**DICOM Image Processing**
+_**DICOM Image Processing**_
 
 • Project goal: Utilize machine learning to forecast lung function decline in patients with an incurable lung disease.
 
@@ -26,7 +26,7 @@ provide insights into fraud detection in credit card transactions.
 
 • Predictive model: Predicts the severity of lung function decline to provide clearer prognoses for patients and families at diagnosis.
 
-**Music data recognition**
+_**Music data recognition**_
 
 • Preprocess GTZAN Dataset for Music Genre Classification.
 
